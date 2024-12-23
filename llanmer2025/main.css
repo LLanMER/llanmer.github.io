@@ -249,3 +249,26 @@ footer .glyphicon {
         font-size: 150px;
     }
 }
+
+.card {
+    width: 17vw;
+    margin: right;
+    text-align: center;
+    font-family: arial;
+    padding-top: 10px;
+    }
+
+    .title {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0;
+    }
+
+    .subtitle {
+      color: gray;
+      font-size: 14px;
+      padding-bottom: 5px;
+      font-weight: bold;
+      margin: 0;
+    }
